@@ -1,0 +1,7 @@
+.mainC {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    border: #000000 1px solid;
+}
